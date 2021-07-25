@@ -5,7 +5,9 @@
 
 ### Dependencies
 
-* pip install efficientnet_pytorch
+```
+pip install efficientnet-pytorch
+```
 
 
 ### Executing program
