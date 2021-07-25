@@ -1,6 +1,17 @@
 # Efficient UNet for Few Shot Segmentation
 
+## EfficientNet
 
+|     Model       |  Parameters   |
+| -------------   | ------------- |
+| EfficientNet-B0 |     5.3M      |
+| EfficientNet-B1 |     7.8M      |
+| EfficientNet-B2 |     9.2M      |
+| EfficientNet-B3 |     12M       |
+| EfficientNet-B4 |     19M       |
+| EfficientNet-B5 |     30M       |
+| EfficientNet-B6 |     43M       |
+| EfficientNet-B7 |     66M       |
 
 
 ### Dependencies
