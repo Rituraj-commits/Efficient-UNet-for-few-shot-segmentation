@@ -6,7 +6,12 @@
 
 
 
+
 ## EfficientNet
+
+A comparision of EfficientNet
+
+![EfficientNet](https://github.com/Rituraj-commits/Efficient-UNet-for-few-shot-segmentation/blob/main/flops.png)
 
 |     Model       |  Parameters   |
 | -------------   | ------------- |
@@ -33,7 +38,7 @@ pip install efficientnet-pytorch
 * Download FSS-1000 dataset for Evaluate Script  [fewshot.zip](https://drive.google.com/file/d/16MFtVhkBm7_8OE41zLIwwFRmIMWF2oCp/view?usp=sharing) 
 * Train-Test split file : fss_test_set.txt
 
-## Help
+## Acknowledgements
 
-Any advise for common problems or issues.
-* [FSS-1000 Official Repo](https://github.com/HKUSTCV/FSS-1000)
+* [FSS-1000](https://github.com/HKUSTCV/FSS-1000)
+* [EfficientNet](https://github.com/lukemelas/EfficientNet-PyTorch)
