@@ -2,6 +2,7 @@
 
 ## UNet Architecture
 
+![UNet](https://github.com/Rituraj-commits/Efficient-UNet-for-few-shot-segmentation/blob/main/Unet.png)
 
 
 
